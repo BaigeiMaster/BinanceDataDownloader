@@ -1,0 +1,5 @@
+save_downloaded_data_dir: "/data/crypto_data/binance_data"
+save_released_data_dir: "/data/crypto_data/binance_data_released"
+max_semaphore: 32
+parallel_n_jobs: 64
+max_download_tasks: 128
